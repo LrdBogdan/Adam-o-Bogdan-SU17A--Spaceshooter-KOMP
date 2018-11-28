@@ -3,20 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - basic
-  - strong
-  - tank
-  - shooting
-  - dodging
-  - dodgingshooting
-  - barrier
-  - wall
-  - player
-  - playerbullet
-  - shootingbullet
-  - dodgingshootingbullet
-  - bullet
+  tags: []
   layers:
   - Default
   - TransparentFX
